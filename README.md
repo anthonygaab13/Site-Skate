@@ -19,12 +19,6 @@ Abaixo segue os casos de teste.
 
 
 
-|**Caso de Teste**|**CT - Perfil do usuário/Historico**|
-| :-: | :- |
-|**Requisitos Associados**|<p>RF-06 - O site deverá ter uma tela histórico.</p><p>RF-02 - O site deverá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um determinado tipo de medicamento.</p>|
-|**Objetivo do Teste**|Verificar se o campo de busca e se as solicitaççoes aparecem no historico |
-|**Passos**|<p>1) Após o Login tera acesso a página Solicitar </p><p>2) Após o login, você terá acesso à página de solicitação de inserção de dados financeiros.
-</p><p>3) Colocar o nome do medicamento no campo de busca </p><p>3) Caso não tenha o medicamento, aparecera medicamento indiponivel</p><p>4) Caso tenha o medicameto, aparecera a imagem, infrmações e o botão de solicitar</p><p>5) Solicitando aparecerá um infome para perguntando ser quer conversar com doador</p><p>6) Se clicar ok, abrira um chat pra mandar uma mensagem ao doador</p><p>7) Se clicar em cancelar, o medicamento será solicitado e aparecerá no historico de satus de solicitação</p>|
-|**Critérios de Êxito**|<p>* O medicamento solicitado deve aparecer</p><p>* Se não tiver o medicamento deve aparecer uma mensagem informando a indiponibilidade dele </p><p>* O medicamento deve ter um botam de para solicitar</p><p>* Ao solicita-lo deve aparecer o status de solicitado</p><p>* E o botam de abrir chat dele abrir um modal para o chat com doador</p>|
+
 
 
