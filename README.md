@@ -10,7 +10,7 @@ Abaixo segue os casos de teste.
 |**Critérios de Êxito**|<p>- Você deverá ser redirecionado a pagina painel de usuário</p><p>- Se for digitado um login e senha invalido deverá apresentar uma mensagem de erro.</p><p>- Se for digitado um e-mail invalido, o botão Entrar ficará indisponível</p><p>- Se for digitado uma senha menor de 6 caracteres, o botão Entrar ficará indisponível. </p>|
 
  
-|**Caso de Teste**|**CT -  Solicitar Medicamento**|
+|**Caso de Teste**|**CT -  Inserir dados financeiros**|
 | :-: | :- |
 |**Requisitos Associados**|<p>RF-01 - O site deverá ter a aba de acesso aos dados financeiros do usuário disponíveis para alteração de cade valor. </p><p>RF-02 - O site deverá oferecer uma funcionalidade de pesquisa para permitir ao usuário localizar um determinado tipo de aplicação ou trasação realizada a um determinado tempo. RF-03 - O site deverá ter um sistema Login, para que o usuário acesse o painel do usuário.</p><p>RF-07 - O site deverá ter uma função de atualizar dados financeiros.</p>|
 |**Objetivo do Teste**|Verificar se o campo de busca, filtro, solicitação e chat estão funcionais|
